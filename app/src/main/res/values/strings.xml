@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="save_btn">SAVE</string>
+    <string name="next_btn">NEXT</string>
+
+
+    <string name="menu_detail">Saved Contents</string>
+    <string name="menu_reset">Reset Saved Contents</string>
+
+    <string name="detail_author">Author:</string>
+    <string name="detail_date">Saved on:</string>
+</resources>
